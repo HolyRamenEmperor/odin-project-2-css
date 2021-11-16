@@ -1,0 +1,51 @@
+.header-logo {
+    color: #F9FAF6;
+    font-size: 24px;
+    background-color: #1F2937;
+}
+
+.header-link, .hero-secondary {
+    color: #E5E7EB;
+    font-size: 18px;
+    background-color: #1F2937;
+}
+
+.button {
+    color: #F9FAF6;
+    font-weight: bold;
+    background-color: #3882F6
+}
+
+.hero-main {
+    color:#F9FAF8;
+    font-size: 48px;
+    font-weight: 800;
+    background-color: #1F2937;
+}
+
+.info-header {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.speaker {
+    font-size: 24px
+}
+
+.container-1 {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.container-1 .header-logo {
+    margin-left: 192px;
+    margin-top: 15px;
+}
